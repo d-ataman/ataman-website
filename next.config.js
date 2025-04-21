@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  output: 'export',
+  images: {
+    unoptimized: true,
+  },
+  // Remove basePath for Cloudflare Pages
+  basePath: '',
+}
 
-module.exports = nextConfig; 
+module.exports = nextConfig 
