@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Duygu Ataman",
   description: "Personal website of Duygu Ataman",
   icons: {
-    icon: '/favicon/favicon.ico',
+    // icon: '/favicon/favicon.ico',
   },
 };
 
