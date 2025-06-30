@@ -61,11 +61,12 @@ export default function Home() {
       <div className="bg-white py-12">
         <div className="max-w-4xl mx-auto px-4">
           <div className="prose prose-lg max-w-none text-justify">
-            <h2 className="text-2xl font-bold mb-6">Current Students</h2>
+            <h2 className="text-2xl font-bold mb-6">Students</h2>
             <ul>
               <li>Ibrahim Ethem Deveci, PhD, Middle East Technical University</li>
               <li>Ilteris Bozkurt, PhD, Middle East Technical University</li>
               <li>Esra Erdogan, MSc, Middle East Technical University</li>
+              <li>Burak Tutar, MSc, Middle East Technical University</li>
               <li>Kavsar Huseynova, Visiting student, Baku Higher Oil School</li>
             </ul>
           </div>
