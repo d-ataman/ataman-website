@@ -7,7 +7,14 @@ export default function News() {
       <div className="max-w-4xl mx-auto px-4 py-16">
         <h1 className="text-4xl font-bold mb-8">Upcoming Events</h1>
         <div className="prose prose-lg max-w-none mb-16">
-          <p>No upcoming events to display at the moment.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+            <div className="text-gray-600">
+              July 5, 2025
+            </div>
+            <div>
+              I'll be an invited speaker at the "Next-Gen Intelligence: Powered by Women" panel organized by IEEE Women in Engineering Azerbaijan.
+            </div>
+          </div>
         </div>
         <h1 className="text-4xl font-bold mb-8">Past Events</h1>
         <div className="prose prose-lg max-w-none">
