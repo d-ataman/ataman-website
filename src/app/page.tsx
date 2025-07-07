@@ -40,7 +40,7 @@ export default function Home() {
               If you are considering starting a PhD you can also contact me to obtain more information on the graduate programs and how to join my group. More details on the graduate programs at the Departments of Information Systems and Cognitive Sciences can be found at the <a href="https://ii.metu.edu.tr" className="text-blue-400 hover:text-blue-300" target="_blank" rel="noopener noreferrer">institute website</a>.
             </p>
             <p>
-              If you are interested in working with me please feel free to inquire with your CV and a brief research statement through <a href="mailto:contact@duyguataman.com" className="text-blue-400 hover:text-blue-300">e-mail</a>.
+              If you are interested in working with me please feel free to inquire with your CV and a brief research statement through <a href="mailto:dataman@metu.edu.tr" className="text-blue-400 hover:text-blue-300">e-mail</a>.
             </p>
           </div>
         </div>

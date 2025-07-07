@@ -3,8 +3,8 @@ export default function Footer() {
     <footer className="bg-black text-white py-8 mt-auto">
       <div className="max-w-4xl mx-auto px-4">
         <div className="flex flex-col items-center">
-          <a href="mailto:contact@duyguataman.com" className="text-white hover:text-gray-300 mb-6">
-            contact@duyguataman.com
+          <a href="mailto:dataman@metu.edu.tr" className="text-white hover:text-gray-300 mb-6">
+            dataman@metu.edu.tr
           </a>
           <div className="flex items-center space-x-6">
             <a 
