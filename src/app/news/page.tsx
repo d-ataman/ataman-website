@@ -7,23 +7,48 @@ export default function News() {
       <div className="max-w-4xl mx-auto px-4 py-16">
         <h1 className="text-4xl font-bold mb-8">Upcoming Events</h1>
         <div className="prose prose-lg max-w-none mb-16">
+          {/* No upcoming events at this time. */}
+        </div>
+        <h1 className="text-4xl font-bold mb-8">Past Events</h1>
+        <div className="prose prose-lg max-w-none">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+            <div className="text-gray-600">
+              July 22, 2025
+            </div>
+            <div>
+              Our position paper on <span className="italic">"Machine Translation in the era of Large Language Models: A Survey of Historical and Emerging Problems"</span> is accepted to appear at the special edition of the Information journal on Machine Translation. Special thanks to my co-authors and mentors Marcello Federico, Alexandra Birch, Philipp Koehn, Nizar Habash and Kyunghyun Cho for their valuable and insightful feedback and directions.
+            </div>
+          </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
             <div className="text-gray-600">
               July 5, 2025
             </div>
             <div>
-              I'll be an invited speaker at the "Next-Gen Intelligence: Powered by Women" panel organized by IEEE Women in Engineering Azerbaijan.
+              I was an invited speaker at the "Next-Gen Intelligence: Powered by Women" panel organized by IEEE Women in Engineering Azerbaijan.
             </div>
           </div>
-        </div>
-        <h1 className="text-4xl font-bold mb-8">Past Events</h1>
-        <div className="prose prose-lg max-w-none">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+            <div className="text-gray-600">
+              April 15, 2025
+            </div>
+            <div>
+              Our paper <span className="italic">"TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages"</span> is accepted to be published at ACL as a main conference paper. Congratulations to all authors and wishing it to be a useful new benchmark for LLM assessment in Turkic languages.
+            </div>
+          </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
             <div className="text-gray-600">
               April 11, 2025
             </div>
             <div>
               Keynote speech at the AI and Big Data Conference in Baku.
+            </div>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+            <div className="text-gray-600">
+              February 25, 2025
+            </div>
+            <div>
+              Our paper "Evaluating morphological compositional generalization in large language models" is accepted to appear at NAACL. The paper evaluates language understanding in LLMs in terms of morphological compositional generalization and collects evidence on significant fallbacks in understanding basic grammatical rules in multiple languages. Thanks to everyone for their hard and fine work in this original research contribution.
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
