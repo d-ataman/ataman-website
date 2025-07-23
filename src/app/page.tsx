@@ -65,6 +65,7 @@ export default function Home() {
             <ul>
               <li>Ibrahim Ethem Deveci, PhD, Middle East Technical University</li>
               <li>Ilteris Bozkurt, PhD, Middle East Technical University</li>
+              <li>Ali Eren Cetintas, PhD, Middle East Technical University</li>
               <li>Burak Tutar, MSc, Middle East Technical University</li>
               <li>Kavsar Huseynova, Visiting student, Baku Higher Oil School</li>
             </ul>
